@@ -1,13 +1,14 @@
-HACKATON: "Movies"
-==================
+# Movie whitout Conflict
+Nace del reto planteado por Laboratoria en su hackaton interna, en el cual debíamos hacer uso del API OMBd para resolver un problema relacionado a las películas.
+
+![vista principal](https://user-images.githubusercontent.com/32310867/36488282-089996d0-16f1-11e8-8818-ad9951dbb009.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ## SQUAD:
 ![Inicio](assets/images/readme/squad.png)
 
-## INTEGRANTES:  
-- Encarnación Gomez, Andrea - andrea_206_93@hotmail.com
-- Quiñones Jauregui, Yenny Elizabeth - yenny.quinones.jauregui@gmail.com
-- Valles , Valeria - sindryv@gmail.com
-- Yauri Machaca , Melissa Rossmery - yaurimelissa@gmail.com
 
 ## PROBLEMA
 - Problema o Requerimiento: Ausencia de un Aplicativo que guíe la elección de películas a ver
@@ -102,5 +103,3 @@ las coincidencias de películas posibles a ver , resultando un match! que les ev
  ![Andrea](assets/images/PROTOTIPOS/prototipo-final-desktop.png)
 
  ![Andrea](assets/images/PROTOTIPOS/prototipo-final-mobile.png)
-
- hola
